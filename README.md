@@ -42,7 +42,7 @@ Donec sit amet feugiat turpis, nec lobortis felis. Phasellus maximus nunc et lec
 
 ### Imagen de la web
 
-![](https://cdn.pixabay.com/photo/2014/08/21/14/51/dog-423398_960_720.jpg)
+![](https://cdn.pixabay.com/photo/2014/08/21/14/51/dog-423398_960_720.jpg "Perro gris")
 
 ## Imagen en html
 
