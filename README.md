@@ -41,4 +41,8 @@ Donec sit amet feugiat turpis, nec lobortis felis. Phasellus maximus nunc et lec
 ![](perro.jpg)
 
 
+## Imagen en html
+
+<img src = "perro.jpg" width="200" height="100">
+
 
