@@ -11,3 +11,15 @@ Donec sit amet feugiat turpis, nec lobortis felis. Phasellus maximus nunc et lec
 ***Negrita e italica***
 
 > "Crear blockquotes"
+
+### Lista Numerada
+
+1. Primero
+2. Segundo
+3. Tercero
+
+### Lista NO Numerada
+
+- Primero
+- Segundo
+- Tercero
